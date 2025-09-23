@@ -1,6 +1,6 @@
 # LeetCode Problem Solutions with Video Explanations
 
-Here are my video explanations for 15 LeetCode problems:
+Here are my video explanations for 10 LeetCode problems:
 
 1. **Score of a String (Problem 3110 - 1)**
    - [Watch Video Solution](https://drive.google.com/file/d/1vJbIY3EgpurR6yJdW9DaiqtYhS1Al0RX/view?usp=sharing)
